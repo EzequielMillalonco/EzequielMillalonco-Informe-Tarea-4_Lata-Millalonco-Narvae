@@ -1,4 +1,3 @@
-# TAREA 4
 ## 1.	OBJETIVOS
 
 	1.1	GENERAL: 
@@ -21,6 +20,10 @@
 		
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+
+## 4. VIDEO
 			
 [![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
 	
