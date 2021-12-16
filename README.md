@@ -13,13 +13,19 @@
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
-### CAPÍTULO :
+### CAPÍTULO 7 :
 
-### CAPÍTULO : 
+### CAPÍTULO 8 : 
 	
 		
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+#### **CAPÍTULO 7 :**
+
+
+
+#### **CAPÍTULO 8 :**
 
 
 
