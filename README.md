@@ -15,6 +15,33 @@
 
 ### CAPÍTULO 7 :
 
+	7–1 Identificación de relaciones en serie-paralelo
+	
+	
+	
+	7–2 Análisis de circuitos resistivos en serie-paralelo 
+
+
+
+	7–3 Divisores de voltaje con cargas resistivas 
+
+
+
+	7–4 Efecto de carga de un voltímetro 
+	
+	
+	
+	7–5 Redes en escalera
+	
+	
+	
+	7–6 El puente Wheatstone 
+	
+	
+	
+	7–7 Localización de fallas 
+
+
 ### CAPÍTULO 8 : 
 	
 		
