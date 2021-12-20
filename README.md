@@ -50,6 +50,22 @@
 
 #### **CAPÍTULO 7 :**
 
+	7-1 Identificación de relaciones en serie-paralelo
+		1. (a) R1 en serie con la combinación en paralelo de R2 y R3
+		
+		![Screenshot 2021-12-20 154406](https://user-images.githubusercontent.com/93826527/146830384-47201cee-f498-4b71-a460-cc283c11b37f.png)
+		
+		   (b) R1 en paralelo con la combinación en serie de R2 y R3
+		   
+		   ![Screenshot 2021-12-20 154406](https://user-images.githubusercontent.com/93826527/146830980-5386c06a-ace3-4e50-9bd7-254ccb410991.png)
+		   
+		   (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
+		   
+		   ![Screenshot 2021-12-20 160210](https://user-images.githubusercontent.com/93826527/146832327-d4189161-0912-4934-9775-a1989cd59b1c.png)
+
+
+
+
 
 
 #### **CAPÍTULO 8 :**
