@@ -57,7 +57,8 @@
 		
 		   (b) R1 en paralelo con la combinación en serie de R2 y R3
 		   
-![Screenshot 2021-12-20 154406](https://user-images.githubusercontent.com/93826527/146830980-5386c06a-ace3-4e50-9bd7-254ccb410991.png)		   
+![Screenshot 2021-12-20 160533](https://user-images.githubusercontent.com/93826527/146832703-3fc91a1e-7906-4894-b6a6-0e5c3823ad83.png)
+		   
 		   
 		   (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
 		   
