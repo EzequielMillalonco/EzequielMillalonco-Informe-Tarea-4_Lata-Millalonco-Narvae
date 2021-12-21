@@ -34,7 +34,7 @@
 	
 Cuando la resistencia interna del voltímetro no es suficientemente más grande que la resistencia del circuito entre los extremos del cual está conectado, el efecto de carga hará que el voltaje medido sea menor que su valor real. Siempre se deberá estar consciente de este efecto
 
-Ejemplo: 
+EJEMPLO: 
 
 ![image](https://user-images.githubusercontent.com/93396250/146879140-8bdca9d2-1f18-4d54-9c28-5d21c2efbb96.png)
 ![image](https://user-images.githubusercontent.com/93396250/146879160-9f2b67df-23ec-4af3-a26f-9edf47838615.png)
@@ -48,6 +48,12 @@ Ejemplo:
 	
 	
 	7–7 Localización de fallas 
+
+Algunas técnicas de localización de fallas y la aplicación de razonamiento lógico ya se analizaron en relación tanto con circuitos en serie como con circuitos en paralelo. Una premisa básica de la localización de fallas es que se debe saber qué buscar antes de poder localizar con éxito una falla en un circuito.
+
+EJEMPLO: 
+![image](https://user-images.githubusercontent.com/93396250/146879851-db98c897-01c0-4811-a9ab-71f2c6fd9eda.png)
+![image](https://user-images.githubusercontent.com/93396250/146879868-2cf24a99-813e-4937-bb1a-0b70e424dccf.png)
 
 
 ### CAPÍTULO 8 : 
