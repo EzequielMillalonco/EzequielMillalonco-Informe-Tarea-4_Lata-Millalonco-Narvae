@@ -42,7 +42,8 @@ EJEMPLO:
 
 	7–5 Redes en escalera
 	
-	
+![5](https://user-images.githubusercontent.com/93396250/146881363-e2b6ec5b-1eb6-4779-b9f4-eff5e1701246.jpg)
+
 	
 	7–6 El puente Wheatstone 
 	
