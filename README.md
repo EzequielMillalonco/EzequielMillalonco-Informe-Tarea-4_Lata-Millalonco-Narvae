@@ -17,20 +17,29 @@
 
 	7–1 Identificación de relaciones en serie-paralelo
 	
-	
+![1](https://user-images.githubusercontent.com/93396250/146879257-c8911531-5a32-490d-b85f-8ac747a42c2a.jpg)
+
 	
 	7–2 Análisis de circuitos resistivos en serie-paralelo 
 
+![2](https://user-images.githubusercontent.com/93396250/146879273-8012cafd-0fe9-483e-9b61-0d7cb9f5723a.jpg)
 
 
 	7–3 Divisores de voltaje con cargas resistivas 
 
+![3](https://user-images.githubusercontent.com/93396250/146879290-417be375-6821-4dd1-9812-d628f99b6cab.jpg)
 
 
 	7–4 Efecto de carga de un voltímetro 
 	
-	
-	
+Cuando la resistencia interna del voltímetro no es suficientemente más grande que la resistencia del circuito entre los extremos del cual está conectado, el efecto de carga hará que el voltaje medido sea menor que su valor real. Siempre se deberá estar consciente de este efecto
+
+Ejemplo: 
+
+![image](https://user-images.githubusercontent.com/93396250/146879140-8bdca9d2-1f18-4d54-9c28-5d21c2efbb96.png)
+
+![image](https://user-images.githubusercontent.com/93396250/146879160-9f2b67df-23ec-4af3-a26f-9edf47838615.png)
+
 	7–5 Redes en escalera
 	
 	
@@ -44,7 +53,137 @@
 
 ### CAPÍTULO 8 : 
 	
+La fuente de voltaje de cd es uno de los principales tipos de fuente de energía la cual proporciona un voltaje constante a una carga, incluso cuando la resistencia de ésta varía. 
 		
+![8](https://user-images.githubusercontent.com/93834732/146826074-82017959-43f7-447f-90c8-fe11a6aafce2.PNG)
+
+Ninguna fuente de voltaje es ideal; sin embargo, las fuentes de potencia regulada se aproximan a la situación ideal cuando funcionan dentro de la corriente de salida especificada.
+
+Mientras más grande es RL, en comparación con RS, menos cambio ocurre en el voltaje de salida. El voltaje de salida disminuye significativamente conforme la resistencia de la carga se reduce en comparación con la resistencia interna de la fuente.
+
+	8–2 La fuente de corriente
+	
+
+La fuente de corriente es otro tipo de fuente de energía que idealmente suministra una corriente constante a una carga, incluso cuando la resistencia de ésta varía. Aunque en la mayor parte del trabajo de análisis se puede utilizar la fuente de corriente ideal, ningún dispositivo real es ideal
+
+![8 1](https://user-images.githubusercontent.com/93834732/146857573-ca2e865e-4284-4bb8-8a38-e17b759e719d.PNG)
+
+Si la resistencia interna de la fuente, RS, es mucho más grande que un resistor de carga, la fuente práctica se aproxima a la fuente ideal.
+
+	8–3 Conversiones de fuente
+
+En ocasiones es útil convertir una fuente de voltaje en una fuente de corriente equivalente, o viceversa.
+
+El voltaje de fuente, VS, dividido entre la resistencia interna de la fuente, RS, da el valor de la corriente de la fuente equivalente.
+
+![8 3](https://user-images.githubusercontent.com/93834732/146857995-08a1c24f-f6d5-48df-800c-6387f69c5fa6.PNG)
+
+La equivalencia terminal  significa que con cualquier resistencia de carga dada que se conecte a las dos fuentes, ambas fuentes producen el mismo voltaje de carga y la misma corriente de carga.
+
+![8 4](https://user-images.githubusercontent.com/93834732/146863689-f7c5cf51-c403-4bf8-8726-db94d60fbb0f.PNG)
+
+
+La corriente de la fuente, IS, multiplicada por la resistencia interna de la fuente, RS, da el valor del voltaje de la fuente equivalente.
+
+![8 5](https://user-images.githubusercontent.com/93834732/146863781-771f488e-0aea-416c-997f-141e60c49034.PNG)
+
+
+	8–4 El teorema de superposicion 
+	
+El método de superposición es una forma de determinar corrientes en un circuito con múltiples fuentes dejando una fuente a la vez y reemplazando las demás fuentes por sus resistencias
+
+El método de superposición es una forma de determinar corrientes en un circuito con múltiples fuentes dejando una fuente a la vez y reemplazando las demás fuentes por sus resistencias internas. Es importante recalcar que una fuente de voltaje ideal tiene una resistencia interna de 0 y una fuente de corriente ideal tiene una resistencia interna infinita.
+Los pasos para aplicar el método de superposición son los siguientes:
+
+*Paso 1*
+
+Dejar una fuente de voltaje (o de corriente) a la vez en el circuito y reemplazar cada una de las demás fuentes de voltaje (o de corriente) con su resistencia interna. Para fuentes ideales, un corto representa resistencia interna de cero y una abertura representa resistencia interna infinita. 
+
+*Paso 2*
+
+Determinar la corriente (o el voltaje) particular que se desea justo como si hubiera sólo una fuente en el circuito. 
+
+*Paso 3*
+
+Tomar la siguiente fuente que haya en el circuito y repetir los pasos 1 y 2. Hacer esto con cada una de las fuentes. 
+
+*Paso 4* 
+
+Sumar algebraicamente las corrientes producidas por cada fuente individual para encontrar la corriente real en una rama dada. (Si las corrientes están en la misma dirección, se suman. Si están en direcciones opuestas, se restan y la dirección de la corriente resultante será la misma que la presentada por la cantidad más grande de las
+cantidades originales.) Una vez determinada la corriente, ya se puede calcular el voltaje mediante la ley de Ohm.
+
+En el siguiente ejemplo se indica de manera grafica los pasos mencionados previamente.
+
+![8 6](https://user-images.githubusercontent.com/93834732/146864478-6fe5f784-ab70-418a-affd-ecff4dae0c79.PNG)
+
+	8–5 Teorema de Thevenin
+	
+Este se usa  para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos.
+
+La forma Thevenin equivalente de cualquier circuito resistivo de dos terminales consta de una fuente de voltaje equivalente (VTH) y una resistencia equivalente (RTH) como se indica en el siguiente grafico.
+
+![8 7](https://user-images.githubusercontent.com/93834732/146865219-d78949c4-4665-4cb5-8bee-89fc0beb44b2.PNG)
+
+*"En un circuito eléctrico, el voltaje equivalente de Thevenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida."*
+
+La resistencia equivalente de Thevenin (RTH) es la resistencia total que aparece entre dos terminales en un circuito dado que tiene todas las fuentes reemplazadas por sus resistencias internas. 
+
+Para encontrar el equivalente de Thevenin de cualquier circuito, se determina el voltaje equivalente, VTH, y la resistencia equivalente, RTH, vistos desde las terminales de salida.
+
+![8 8](https://user-images.githubusercontent.com/93834732/146865472-c84f5a47-6fef-4301-86ad-5241a28e4fff.PNG)
+
+![8 9](https://user-images.githubusercontent.com/93834732/146865499-4f1a8aba-f31c-48d6-a71c-363d89d1a759.PNG)
+
+El equivalente de Thevenin de cualquier circuito depende de la ubicación de las dos terminales de salida desde donde se “ve” dicho circuito.
+
+En muchos casos, es de cierta ayuda thevenizar sólo una parte de un circuito como se muestra en el siguiente grafico.
+
+![8 10](https://user-images.githubusercontent.com/93834732/146866141-ee1f739d-4157-48c9-9381-95983f8e0054.PNG)
+
+Cabe mencionar que el teorema de Thevenin tambien puede ser usado para resolver circuitos puente como el del siguiente grafico.
+
+![8 11](https://user-images.githubusercontent.com/93834732/146866265-813d0440-6234-42f8-bb44-10d05ec9ca83.PNG)
+
+	8–6 Teorema de Norton
+	
+![Diagrama en blanco (4)](https://user-images.githubusercontent.com/93834732/146870496-7afaa955-64e4-4070-8863-975d9c4cecf8.png)
+
+En  el siguiente grafico se muestra como aplicar estos pasos.
+
+![8 12](https://user-images.githubusercontent.com/93834732/146870554-8a25ebcc-888e-4f96-b9ea-6f5f20bb4d13.PNG)
+
+
+	8–7 Teorema de Trasnferencia de Potencia Maxima
+	
+Este teorema se usa cuando es importante cuando se tiene que conocer el valor de la carga con la cual la fuente suministra la máxima potencia.
+
+Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
+
+![8 13](https://user-images.githubusercontent.com/93834732/146870787-71c78831-fc29-43d7-aaef-a5a65f338596.PNG)
+
+Algunas aplicaciones prácticas del teorema de transferencia de potencia máxima incluyen sisemas de audio tales como aparatos estereofónicos, radios, y sistemas de alocución pública, etc. 
+
+	8–8 Conversiones Delta a Y (V A Y) y Y a Delta (Y A V)
+	
+Las conversiones entre configuraciones de circuito tipo delta y tipo Y son útiles en ciertas aplicaciones especializadas de tres terminales.
+
+![8 14](https://user-images.githubusercontent.com/93834732/146870983-131c3537-e19d-42f6-bed7-f3ca5e287419.PNG)
+
+*Conversión V a Y*
+
+Cada resistor localizado en la Y es igual al producto de los resistores incluidos en dos ramas delta adyacentes, dividido entre la suma de los tres resistores en delta.
+
+![8 15](https://user-images.githubusercontent.com/93834732/146871053-a6277f57-704b-462a-9bbe-e0d6d78cdc6e.PNG)
+
+![8 16](https://user-images.githubusercontent.com/93834732/146871078-0bf5e523-b076-4413-82ec-23d51eaec061.PNG)
+
+![8 17](https://user-images.githubusercontent.com/93834732/146871121-dab0b593-c516-4184-8999-f42f3d655b48.PNG)
+
+*Conversión Y a V*
+
+Cada resistor incluido en la delta es igual a la suma de todos los posibles productos de resistores Y tomados dos a la vez, y divididos entre el resistor Y opuesto
+
+![8 18](https://user-images.githubusercontent.com/93834732/146871279-5354d7a3-8d1d-4238-ad5f-d3b01324b0af.PNG)		
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
