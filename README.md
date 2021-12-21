@@ -37,7 +37,6 @@ Cuando la resistencia interna del voltímetro no es suficientemente más grande 
 Ejemplo: 
 
 ![image](https://user-images.githubusercontent.com/93396250/146879140-8bdca9d2-1f18-4d54-9c28-5d21c2efbb96.png)
-
 ![image](https://user-images.githubusercontent.com/93396250/146879160-9f2b67df-23ec-4af3-a26f-9edf47838615.png)
 
 	7–5 Redes en escalera
