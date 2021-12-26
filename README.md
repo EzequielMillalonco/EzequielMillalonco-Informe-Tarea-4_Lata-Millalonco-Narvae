@@ -241,7 +241,7 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 ![image](https://user-images.githubusercontent.com/93396250/147421849-2bb05047-46af-4c0a-886d-0d9caa0cc53b.png)
 
 
-** LOS TRANSISTORES DE EFECTO CAMPO NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO EL EJERICIO NO SE REALIZARA **
+**LOS TRANSISTORES DE EFECTO CAMPO NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO EL EJERICIO NO SE REALIZARA **
 	
 	
 	7–4 Efecto de carga de un voltímetro 
@@ -256,6 +256,61 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 #### **CAPÍTULO 8 :**
 
+	8–1 La fuente de voltaje de cd
+	
+	
+	8–2 La fuente de corriente
+	
+	
+	8–3 Conversiones de fuente 
+	
+**7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.**
+
+![image](https://user-images.githubusercontent.com/93396250/147422579-5b61b215-1874-4b0d-a742-39090c59e6ad.png)
+
+
+**9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
+
+![image](https://user-images.githubusercontent.com/93396250/147422581-cf9d9228-4c99-46c2-84be-a70ed444b77e.png)
+
+
+**11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
+
+![image](https://user-images.githubusercontent.com/93396250/147422591-3b66d26c-0e49-46a1-93cd-4cba9336cc89.png)
+
+**13. Determine el voltaje del punto A al punto B en la figura 8-73
+
+**15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+
+
+
+
+	8–4 El teorema de superposición 
+	
+**17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77. 
+
+![image](https://user-images.githubusercontent.com/93396250/147422645-949c3d0c-b053-42a0-902d-522d23832393.png)
+
+**19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
+
+![image](https://user-images.githubusercontent.com/93396250/147422659-edd0e11b-81c5-4ac0-8029-9de2523c5e17.png)
+
+**21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/93396250/147422667-53b2c2ce-a93c-4931-b8c6-4770993ba263.png)
+
+
+	8–5 Teorema de Thevenin 
+	
+	
+	8–6 Teorema de Norton 
+	
+	
+	8–7 Teorema de transferencia de potencia máxima
+	
+	
+	8–8 Conversiones delta a  Y (Δ a Y) y Y a delta (Y a Δ)
 
 
 ## 4. VIDEO
