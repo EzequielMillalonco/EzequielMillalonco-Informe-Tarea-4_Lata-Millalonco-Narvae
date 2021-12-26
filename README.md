@@ -47,7 +47,8 @@ EJEMPLO:
 	
 	7–6 El puente Wheatstone 
 	
-	
+![6](https://user-images.githubusercontent.com/93396250/147421142-d19e4613-2997-4b2c-85a4-bde6984247df.jpg)
+
 	
 	7–7 Localización de fallas 
 
