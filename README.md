@@ -274,13 +274,13 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 ![image](https://user-images.githubusercontent.com/93396250/147422581-cf9d9228-4c99-46c2-84be-a70ed444b77e.png)
 
 
-**11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
+**11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?**
 
 ![image](https://user-images.githubusercontent.com/93396250/147422591-3b66d26c-0e49-46a1-93cd-4cba9336cc89.png)
 
-**13. Determine el voltaje del punto A al punto B en la figura 8-73
+**13. Determine el voltaje del punto A al punto B en la figura 8-73**
 
-**15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+**15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
 
 
 
@@ -288,15 +288,15 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 	8–4 El teorema de superposición 
 	
-**17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77. 
+**17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.**
 
 ![image](https://user-images.githubusercontent.com/93396250/147422645-949c3d0c-b053-42a0-902d-522d23832393.png)
 
-**19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
+**19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.** 
 
 ![image](https://user-images.githubusercontent.com/93396250/147422659-edd0e11b-81c5-4ac0-8029-9de2523c5e17.png)
 
-**21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+**21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.**
 
 ![image](https://user-images.githubusercontent.com/93396250/147422667-53b2c2ce-a93c-4931-b8c6-4770993ba263.png)
 
