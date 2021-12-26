@@ -199,26 +199,55 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 #### **CAPÍTULO 7 :**
 
 	7-1 Identificación de relaciones en serie-paralelo
-		1. (a) R1 en serie con la combinación en paralelo de R2 y R3
+**1.  Visualice y trace las siguientes combinaciones en serie-paralelo:**
+  (a) R1 en serie con la combinación en paralelo de R2 y R3
 		
 ![Screenshot 2021-12-20 154406](https://user-images.githubusercontent.com/93826527/146830384-47201cee-f498-4b71-a460-cc283c11b37f.png)		
 		
-		   (b) R1 en paralelo con la combinación en serie de R2 y R3
+   (b) R1 en paralelo con la combinación en serie de R2 y R3
 		   
 ![Screenshot 2021-12-20 160533](https://user-images.githubusercontent.com/93826527/146832703-3fc91a1e-7906-4894-b6a6-0e5c3823ad83.png)
 		   
 		   
-		   (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
+   (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
 		   
 ![Screenshot 2021-12-20 160210](https://user-images.githubusercontent.com/93826527/146832327-d4189161-0912-4934-9775-a1989cd59b1c.png)		  
 
 
 
+	7–2 Análisis de circuitos resistivos en serie-paralelo  
+
+	7–3 Divisores de voltaje con cargas resistivas 
+
+**25. Un divisor de voltaje está compuesto por dos resistores de 56 kΩ y una fuente de 15 V. Calcule el voltaje de salida sin carga ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MΩ a la salida?**
 
 
+**27. Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado**
 
+**29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B**
 
+![image](https://user-images.githubusercontent.com/93396250/147421770-b8eff7a4-16fb-4bd2-a1dd-02e793c30032.png)
 
+**31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez**
+
+**33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos**
+
+   (a)  Encuentre VG y VS
+
+   (b)  Determine I1, I2, ID, e IS
+
+   (c)  Encuentre VDS y VDG
+   
+![image](https://user-images.githubusercontent.com/93396250/147421849-2bb05047-46af-4c0a-886d-0d9caa0cc53b.png)
+
+**LOS TRANSISTORES DE EFECTO CAMPO NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO EL EJERICIO NO SE REALIZARA **
+	7–4 Efecto de carga de un voltímetro 
+	
+	7-5 Redes en escalera
+	
+	7–6 El puente Wheatstone
+	
+	7–7 Localización de fallas 
 
 
 
