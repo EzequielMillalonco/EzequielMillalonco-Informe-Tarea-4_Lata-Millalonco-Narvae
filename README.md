@@ -240,7 +240,8 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
    
 ![image](https://user-images.githubusercontent.com/93396250/147421849-2bb05047-46af-4c0a-886d-0d9caa0cc53b.png)
 
-**LOS TRANSISTORES DE EFECTO CAMPO NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO EL EJERICIO NO SE REALIZARA
+
+** LOS TRANSISTORES DE EFECTO CAMPO NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO EL EJERICIO NO SE REALIZARA **
 	
 	
 	7–4 Efecto de carga de un voltímetro 
