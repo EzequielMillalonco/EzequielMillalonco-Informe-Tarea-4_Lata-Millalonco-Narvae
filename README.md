@@ -255,12 +255,6 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 
 #### **CAPÍTULO 8 :**
-
-	8–1 La fuente de voltaje de cd
-	
-	
-	8–2 La fuente de corriente
-	
 	
 	8–3 Conversiones de fuente 
 	
