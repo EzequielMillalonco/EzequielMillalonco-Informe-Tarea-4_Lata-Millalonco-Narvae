@@ -235,16 +235,18 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 	Vsalida (sin carga) = (56/112)*15V ===> 7.5 V
 	
+	Para Vsalida con carga se calcula R2 y RL en paralelo, para luego con esa resistencia hacer los cálculos de Vsalida con carga
 	Vsalida (con resistor de 1.0 MΩ):
 		Calculamos la resistencia en paralelo
-		R2 || RL = (1/(1/56)+(1/1000)) = 53.03
+		R2 || RL = (1/(1/56)+(1/1000)) = 53.03 kΩ
 		
 	Vsalida (con carga) = (53.03/ 53.03 + 56) * 15V ===> 7.29 V
 	
 	
 **27. Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado**
 
-	Con la resistencia de 47kΩ
+	Respuesta: Con la resistencia de 47kΩ
+	
 	Esto porque mientras más grande es RL en comparación con R2,
 	menos se reduce el voltaje de salida con respecto a su valor sin carga.
 
