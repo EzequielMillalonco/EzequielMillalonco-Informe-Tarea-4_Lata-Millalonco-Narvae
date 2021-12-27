@@ -254,7 +254,8 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 ![image](https://user-images.githubusercontent.com/93396250/147421770-b8eff7a4-16fb-4bd2-a1dd-02e793c30032.png)
 
-	
+	Primero se calcula R2+3 || RL
+	R2+3 || RL = 1/(1/(5.6 + 2.7) + 1/33) 
 
 **31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez**
 
