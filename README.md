@@ -293,6 +293,7 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 ![image](https://user-images.githubusercontent.com/93396250/147422579-5b61b215-1874-4b0d-a742-39090c59e6ad.png)
 
+![image](https://user-images.githubusercontent.com/93396250/147440589-7dff5717-a002-4d35-9d77-de417cb183a8.png)
 
 **9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
 
