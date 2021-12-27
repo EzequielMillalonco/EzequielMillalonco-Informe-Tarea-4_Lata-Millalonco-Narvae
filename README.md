@@ -272,7 +272,7 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 ![image](https://user-images.githubusercontent.com/93396250/147421849-2bb05047-46af-4c0a-886d-0d9caa0cc53b.png)
 
 
-**LOS TRANSISTORES DE EFECTO CAMPO NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO EL EJERICIO NO SE REALIZARA**
+**LOS CIRCUITOS COMPARADORES NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO (Y UNA VEZ CONSULTADO CON EL TUTOR) EL EJERICIO NO SE REALIZA**
 	
 	
 	7–4 Efecto de carga de un voltímetro 
@@ -286,8 +286,10 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 
 #### **CAPÍTULO 8 :**
+	8–3 Conversiones de fuente
 	
-	8–3 Conversiones de fuente 
+	
+	8–4 El teorema de superposición 
 	
 **7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.**
 
@@ -304,6 +306,9 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 ![image](https://user-images.githubusercontent.com/93396250/147422591-3b66d26c-0e49-46a1-93cd-4cba9336cc89.png)
 
+**LOS CIRCUITOS COMPARADORES NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO (Y UNA VEZ CONSULTADO CON EL TUTOR) EL EJERICIO NO SE REALIZA**
+	
+
 **13. Determine el voltaje del punto A al punto B en la figura 8-73**
 
 **15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
@@ -312,7 +317,7 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 
 
-	8–4 El teorema de superposición 
+	8–5 Teorema de Thevenin
 	
 **17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.**
 
@@ -322,12 +327,13 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 ![image](https://user-images.githubusercontent.com/93396250/147422659-edd0e11b-81c5-4ac0-8029-9de2523c5e17.png)
 
+
+**LOS CIRCUITOS CON AMPLIFICADOR NO SON TEMA DE ESTE PARCIAL POR LO QUE AUN NO SE VEN EN CLASE, POR ELLO (Y UNA VEZ CONSULTADO CON EL TUTOR) EL EJERICIO NO SE REALIZA**
+
 **21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.**
 
 ![image](https://user-images.githubusercontent.com/93396250/147422667-53b2c2ce-a93c-4931-b8c6-4770993ba263.png)
 
-
-	8–5 Teorema de Thevenin 
 	
 	
 	8–6 Teorema de Norton 
