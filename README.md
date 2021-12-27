@@ -215,13 +215,33 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 	7–2 Análisis de circuitos resistivos en serie-paralelo  
 
 	7–3 Divisores de voltaje con cargas resistivas 
 
 **25. Un divisor de voltaje está compuesto por dos resistores de 56 kΩ y una fuente de 15 V. Calcule el voltaje de salida sin carga ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MΩ a la salida?**
 
-
+	Vsalida (sin carga) = (56/112)*15V ===> 7.5 V
+	
+	Vsalida (con resistor de 1.0 MΩ):
+		Calculamos la resistencia en paralelo
+		R2 || RL = (1/(1/56)+(1/1000)) = 53.03
+		
+	Vsalida (con carga) = (53.03/ 53.03 + 56) * 15V ===> 7.29 V
+	
+	
 **27. Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado**
 
 **29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B**
