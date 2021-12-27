@@ -239,10 +239,7 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 	
 	Para Vsalida con carga se calcula R2 y RL en paralelo, 
-	para luego con esa resistencia hacer los cálculos de 
-	Vsalida con carga
-	Vsalida (con resistor de 1.0 MΩ):
-		Calculamos la resistencia en paralelo
+	para luego con esa resistencia hacer los cálculos de Vsalida con carga
 
    ![image](https://user-images.githubusercontent.com/93396250/147433191-5f66b106-d83c-4fbe-b377-bb0402136fe1.png)
 	
