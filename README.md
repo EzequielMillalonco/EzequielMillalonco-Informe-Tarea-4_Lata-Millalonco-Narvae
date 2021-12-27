@@ -244,6 +244,10 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 	
 **27. Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado**
 
+	Con la resistencia de 47kΩ
+	Esto porque mientras más grande es RL en comparación con R2,
+	menos se reduce el voltaje de salida con respecto a su valor sin carga.
+
 **29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B**
 
 ![image](https://user-images.githubusercontent.com/93396250/147421770-b8eff7a4-16fb-4bd2-a1dd-02e793c30032.png)
