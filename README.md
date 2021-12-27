@@ -233,15 +233,18 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 **25. Un divisor de voltaje está compuesto por dos resistores de 56 kΩ y una fuente de 15 V. Calcule el voltaje de salida sin carga ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MΩ a la salida?**
 
-	Vsalida (sin carga) = (56/112)*15V ===> 7.5 V
+	Vsalida (sin carga) 
+
+   ![image](https://user-images.githubusercontent.com/93396250/147433159-af8fd1ff-1a5c-4e83-85c4-3dc2fedafb04.png)
+
 	
-	Para Vsalida con carga se calcula R2 y RL en paralelo, para luego con esa resistencia hacer los cálculos de Vsalida con carga
+	Para Vsalida con carga se calcula R2 y RL en paralelo, 
+	para luego con esa resistencia hacer los cálculos de 
+	Vsalida con carga
 	Vsalida (con resistor de 1.0 MΩ):
 		Calculamos la resistencia en paralelo
-		R2 || RL = (1/(1/56)+(1/1000)) = 53.03 kΩ
-		
-	Vsalida (con carga) = (53.03/ 53.03 + 56) * 15V ===> 7.29 V
-	
+
+   ![image](https://user-images.githubusercontent.com/93396250/147433191-5f66b106-d83c-4fbe-b377-bb0402136fe1.png)
 	
 **27. Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado**
 
@@ -254,8 +257,10 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 ![image](https://user-images.githubusercontent.com/93396250/147421770-b8eff7a4-16fb-4bd2-a1dd-02e793c30032.png)
 
-	Primero se calcula R2+3 || RL
-	R2+3 || RL = 1/(1/(5.6 + 2.7) + 1/33) 
+	Primero se calcula R2+3 || RL y luego se calcula el voltaje de salida con carga
+	
+![image](https://user-images.githubusercontent.com/93396250/147433572-2b543a2f-f74c-46cc-9337-6a9ac9d8ca07.png)
+
 
 **31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez**
 
