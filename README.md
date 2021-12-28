@@ -333,8 +333,7 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 	Por tanto la corriente que fluye por el circuito es:
 
-![image](https://user-images.githubusercontent.com/93396250/147537341-b538d4d2-b352-4547-936b-d95f733eeef7.png)
-
+![image](https://user-images.githubusercontent.com/93396250/147538577-4fd01bc8-37f8-46af-8e05-ca0f503891fe.png)
 
 	La corriente que fluye por R5 sera
 
