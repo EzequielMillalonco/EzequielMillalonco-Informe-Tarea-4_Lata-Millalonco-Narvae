@@ -359,9 +359,13 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 **13. Determine el voltaje del punto A al punto B en la figura 8-73**
 
+![image](https://user-images.githubusercontent.com/93396250/147542831-d6d13be2-05e1-4a63-9149-254995a28cbd.png)
+
+
 **15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
 
 
+![image](https://user-images.githubusercontent.com/93396250/147542907-f0d6fe1b-3aa5-455b-b4d4-767b2cf621dc.png)
 
 
 
