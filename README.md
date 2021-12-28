@@ -297,7 +297,7 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 	Sustituyendo la fuente de voltaje de 3V
 
-![image](https://user-images.githubusercontent.com/93396250/147440589-7dff5717-a002-4d35-9d77-de417cb183a8.png)
+![image](https://user-images.githubusercontent.com/93396250/147536101-072fc338-2ac2-4c7e-bb39-822246e46ccf.png)
 
 	Primero se halla la corriente obteniendo resistencias equivalentes y por la Ley de Ohm 	
 	
@@ -317,6 +317,9 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 
 	Sustituyendo la fuente de voltaje de 2V
+	
+![image](https://user-images.githubusercontent.com/93396250/147536179-f8d1c185-3738-4a0f-bdbe-492fe111616f.png)
+
 
 	Primero se halla la corriente obteniendo resistencias equivalentes y por la Ley de Ohm 
 
