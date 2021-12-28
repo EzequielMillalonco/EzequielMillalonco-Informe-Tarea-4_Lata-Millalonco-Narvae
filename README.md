@@ -295,7 +295,48 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 
 ![image](https://user-images.githubusercontent.com/93396250/147422579-5b61b215-1874-4b0d-a742-39090c59e6ad.png)
 
+	Sustituyendo la fuente de voltaje de 3V
+
 ![image](https://user-images.githubusercontent.com/93396250/147440589-7dff5717-a002-4d35-9d77-de417cb183a8.png)
+
+	Primero se halla la corriente obteniendo resistencias equivalentes y por la Ley de Ohm 	
+	
+![image](https://user-images.githubusercontent.com/93396250/147535446-e5ddb8c1-9b80-4fa2-ab39-41ab06cb6a1a.png)
+
+	Por tanto la corriente que fluye por el circuito es:
+	
+![image](https://user-images.githubusercontent.com/93396250/147535467-019a2a88-8e4d-4d12-b46b-d08b3f90509f.png)
+
+	La corriente que fluye por R3 sera	
+	
+![image](https://user-images.githubusercontent.com/93396250/147535479-9565a205-a14f-48aa-b255-c99b6e721840.png)
+
+	La corriente que fluye por R5 sera
+
+![image](https://user-images.githubusercontent.com/93396250/147535495-53a0345c-d8a5-4e4d-9200-a53027d0b7b2.png)
+
+
+	Sustituyendo la fuente de voltaje de 2V
+
+	Primero se halla la corriente obteniendo resistencias equivalentes y por la Ley de Ohm 
+
+![image](https://user-images.githubusercontent.com/93396250/147535522-9c01a0e2-a243-4865-ab6d-8896c1b85ba5.png)
+
+
+	Por tanto la corriente que fluye por el circuito es:
+
+![image](https://user-images.githubusercontent.com/93396250/147535535-69f7ea92-bba1-4268-a121-85218ed30a1e.png)
+
+
+	La corriente que fluye por R5 sera
+
+![image](https://user-images.githubusercontent.com/93396250/147535593-8839450d-edc2-4c99-8681-475807cb44e0.png)
+
+
+	Por lo que la corriente total en R5 sera 
+
+![image](https://user-images.githubusercontent.com/93396250/147535609-aebace33-2c24-4dc7-9b34-84f6764d00d6.png)
+
 
 **9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
 
