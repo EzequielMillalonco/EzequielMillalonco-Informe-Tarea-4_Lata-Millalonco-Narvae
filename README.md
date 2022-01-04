@@ -279,6 +279,9 @@ Rt = 1/ ((1/R123)+(1/R56)+(1/R4)) = 417.25 kΩ
 
 
 
+
+
+
 	7–3 Divisores de voltaje con cargas resistivas 
 
 **25. Un divisor de voltaje está compuesto por dos resistores de 56 kΩ y una fuente de 15 V. Calcule el voltaje de salida sin carga ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MΩ a la salida?**
@@ -311,6 +314,52 @@ Rt = 1/ ((1/R123)+(1/R56)+(1/R4)) = 417.25 kΩ
 
 **31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez**
 
+	Asumimos la estructura del divisor de voltaje
+
+![Untitled (5)](https://user-images.githubusercontent.com/93396250/148011482-8ed7e7a0-e8aa-4d36-9bf4-e506c8d26c78.jpg)
+
+	1. La corriente máxima sin carga no debe exceder los 5mA, por lo tanto
+	
+![image](https://user-images.githubusercontent.com/93396250/148011598-a1d0149a-c0a0-4be1-a48a-d6e18f9686d4.png)
+
+
+	2. Las salidas requeridas deben ser de 5 y 2.5 V. Debido a esto las resistencias R2 y R3 deben ser iguales ya que tienen el mismo voltaje
+	
+![image](https://user-images.githubusercontent.com/93396250/148011606-89f4176e-234d-4e9a-b782-0e5c3b349666.png)
+
+	El voltaje que cruza a través de R2 es 5V – 2.5V = 2.5V. 
+	Por tanto, R2 y R3 deben ser iguales ya que tienen el mismo voltaje. R_2=R_3     [2]
+	Suponiendo una resistencia R1 = 1kΩ entonces tomando en cuenta [1] y [2]
+
+![image](https://user-images.githubusercontent.com/93396250/148011617-3d43f51a-55fc-4bb4-b051-d4d063a1416e.png)
+
+
+	3. Cuando la carga de RL = 1 kΩ esta con el V1 entonces el circuito queda de la siguiente manera:
+
+![Untitled (6)](https://user-images.githubusercontent.com/93396250/148011646-b7ed40fb-0992-4545-9d96-28071faac7f2.jpg)
+
+
+	Las Resistencias R3 y RL están en paralelo, por lo tanto, se encuentra la Req ||, para luego calcular el voltaje de salida
+
+![image](https://user-images.githubusercontent.com/93396250/148011668-8373ce26-ef82-4f28-b844-dbd79653d5dc.png)
+
+	4. Cuando la carga de RL = 1 kΩ está conectada a V2 entonces el circuito armado queda de la siguiente manera:
+
+![Untitled (7)](https://user-images.githubusercontent.com/93396250/148011674-cea8e16e-4652-4155-9e39-ad54a83d8cb9.jpg)
+
+	
+	Si R2 + R3 y RL están en paralelo y entonces la resistencia equivalente es
+
+![image](https://user-images.githubusercontent.com/93396250/148011692-13f87ab2-239d-4760-ba1d-1d16e34280c4.png)
+
+
+	Respuesta = Por tanto el voltaje de salida para 2.5 V en V1 y 5v en V2 será de 1.818V y 3.33V respectivamente gracias al efecto de la carga RL
+	
+	
+	
+	
+	
+	
 **33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos**
 
    (a)  Encuentre VG y VS
