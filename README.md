@@ -513,7 +513,8 @@ Vs = Is * Rs = 720 (V)
 
 	La corriente que pasa a través de R3, la cual fue hallada por teorema de superposición, es igual a 
 
-![image](https://user-images.githubusercontent.com/93396250/148011885-b3f17322-cef8-4157-8f30-d3d14a823867.png)
+![image](https://user-images.githubusercontent.com/93396250/148012802-0df94445-32a6-4d15-ad59-aa72faae0fc4.png)
+
 
 
 
