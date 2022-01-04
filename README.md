@@ -3,14 +3,16 @@
 
 	1.1	GENERAL: 
 
+Analizar y comprender, el teorema de Thevenin y Norton, transferencia de potencia mediante análisis de circuitos en serie - paralelo.
 
 	1.2	ESPECÍFICOS:
 
-**a.**	
-		
-**b.**	
+**a.**	Analizar circuitos y determinar corriente, voltaje y resistencia equivalente, encontrando una fuente de voltaje equivalente en serie con una resistencia equivalente.
 
-**c.**	
+		
+**b.**	Aplicar el método de Norton en circuitos y obtener corriente, voltaje y resistencia equivalente, obteniendo una fuente de corriente equivalente en paralelo con una resistencia equivalente.
+
+**c.**	Comprobar el teorema de transferencia máxima de potencia, aplicando las transformaciones de Thevenin y Norton, logrando definir la resistencia de carga, que se usará para suministrar la potencia máxima en un circuito a través de una fuente de Voltaje o Corriente equivalentes y una RL.
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
@@ -827,6 +829,8 @@ b)
 	
 ## 5.	CONCLUSIONES
         
+
+
 
 ## 6.	BIBLIOGRAFÍA
 
