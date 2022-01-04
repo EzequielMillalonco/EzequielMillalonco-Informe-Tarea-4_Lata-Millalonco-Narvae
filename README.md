@@ -796,6 +796,10 @@ Resolucion
 	
 	8–7 Teorema de transferencia de potencia máxima
 	
+**31. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito**
+
+La transferencia de potencia va a a aumentar o disminuir equivalentemente a RL, ya que obtendremos una corriente I con menor valor y una potencia equivalente a esta nueva I y a la nueva RL.
+
 	
 	8–8 Conversiones delta a  Y (Δ a Y) y Y a delta (Y a Δ)
 	
