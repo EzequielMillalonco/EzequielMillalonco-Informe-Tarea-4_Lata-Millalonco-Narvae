@@ -336,8 +336,8 @@ Rt = 1/ ((1/R123)+(1/R56)+(1/R4)) = 417.25 kΩ
 
 	3. Cuando la carga de RL = 1 kΩ esta con el V1 entonces el circuito queda de la siguiente manera:
 
-![Untitled (6)](https://user-images.githubusercontent.com/93396250/148011646-b7ed40fb-0992-4545-9d96-28071faac7f2.jpg)
 
+![Untitled (10)](https://user-images.githubusercontent.com/93396250/148013190-46f932b8-b685-4cc9-acf7-34d51058c154.jpg)
 
 	Las Resistencias R3 y RL están en paralelo, por lo tanto, se encuentra la Req ||, para luego calcular el voltaje de salida
 
