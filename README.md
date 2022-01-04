@@ -824,8 +824,12 @@ b)
 ![35 4](https://user-images.githubusercontent.com/93834732/148012236-365dcf14-c456-48e4-9580-5a7cc0ca4d1d.GIF)
 
 ## 4. VIDEO
-			
-[![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
+
+	Video de la Tarea #4 en donde se explican ejercicios del capítulo 7 y 8 y su respectiva resolución
+	
+https://youtu.be/0nGbU7ZQAkw
+
+[![Presentación Tarea 1](https://img.youtube.com/vi/0nGbU7ZQAkw/0.jpg)](https://www.youtube.com/watch?v=0nGbU7ZQAkw)
 	
 ## 5.	CONCLUSIONES
         
