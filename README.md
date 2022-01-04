@@ -401,14 +401,113 @@ R4RM = (R4RM)/(R4+RM) = 26.93 (ohm)
 V4 = (R4RM)/(R123+R4RM) = 202.5 (mV)
 
 
-
-
 	7-5 Redes en escalera
-	
+
+*39. Para el circuito mostrado en la figura 7-77, calcule:*
+
+![39](https://user-images.githubusercontent.com/93834732/147995654-5b7ee04a-3faf-4834-9db0-3591f18cb9fb.PNG)
+
+a) La resistencia total entre las terminales de la fuente.
+
+![39 a 1](https://user-images.githubusercontent.com/93834732/147997679-4679010a-92ce-40fd-9998-d46a56fef308.PNG)
+
+![39 a 2](https://user-images.githubusercontent.com/93834732/147997689-7e2c6cc4-950f-4b7f-aa90-94cf06e7654a.PNG)
+
+![39 a 3](https://user-images.githubusercontent.com/93834732/147997697-4ebda859-0dfb-4021-aec5-9ef513eeefc5.PNG)
+
+![39 a 4](https://user-images.githubusercontent.com/93834732/147997703-d00cb060-dfe0-43db-86e1-274d241cc0c0.PNG)
+
+![39 a 5](https://user-images.githubusercontent.com/93834732/147997707-800bd778-4c7c-45b4-b9be-76e0a232882d.PNG)
+
+![39 a 6](https://user-images.githubusercontent.com/93834732/147997712-99396b19-3bab-456b-9feb-6f646705579d.PNG)
+
+![39 a 7](https://user-images.githubusercontent.com/93834732/147997719-dd9b60b9-f85b-4fef-b9c0-a4305d271edc.PNG)
+
+![39 a 8](https://user-images.githubusercontent.com/93834732/147997725-e986a986-1307-4fcb-b360-14a522a90612.PNG)
+
+b) La corriente total suministrada por la fuente
+
+![39 b](https://user-images.githubusercontent.com/93834732/147997983-31ff0be5-5bba-4e2f-abaa-547c99e2cf71.PNG)
+
+c) La corriente a través del resistor de 910 Ohms
+
+![39](https://user-images.githubusercontent.com/93834732/147998398-f40f4514-d298-4c36-977f-a1088ac63ce8.GIF)
+
+Como la resistencia de Req7 contenia en seria a la resistencia de 910 Ohms, podemos decir que la intensidad de Req7 es la misma que la de 910 Ohms.
+
+d) El voltaje desde el punto A hasta el punto B
+
+![39 D](https://user-images.githubusercontent.com/93834732/147999088-30428891-16b2-468d-922c-3cde4d3ede93.GIF)
+
+*43. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.*
+
+![41](https://user-images.githubusercontent.com/93834732/147999183-7a265a3e-bd81-40d5-8cf1-b48b32181446.GIF)
+
+Resistencia total
+
+![41 1](https://user-images.githubusercontent.com/93834732/147999952-44c2580b-6a36-4316-bda2-92ebe5234410.GIF)
+
+![41 2](https://user-images.githubusercontent.com/93834732/148000001-4615c137-084c-40aa-9dad-5ea68e0f421c.GIF)
+
+![41 3](https://user-images.githubusercontent.com/93834732/148000022-0f4c0615-6a01-40a4-8c34-fa44bcccd79c.GIF)
+
+Calculo de las intensidades
+
+![41 4](https://user-images.githubusercontent.com/93834732/148000362-6fe33e5c-9af5-4121-a50e-9673afc5d315.GIF)
+
+![41 5](https://user-images.githubusercontent.com/93834732/148000385-0b14a4d4-6053-4ecf-ad4d-b170fbfc15a5.GIF)
+
+![41 6](https://user-images.githubusercontent.com/93834732/148000411-587a34db-1888-46b2-a75f-94af3a313bf0.GIF)
+
+*43. Repita el problema 44 para las siguientes condiciones*
+
+a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
+
+![43 2](https://user-images.githubusercontent.com/93834732/148001293-6ad7cb1c-8048-40fe-b723-48ee57e2566c.GIF)
+
+b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
+
+![43 1](https://user-images.githubusercontent.com/93834732/148001263-6f7bc046-c30e-4014-9b3f-b698d3d50abd.GIF)
+
+c) Todos los interruptores conectados a 12 V
+
+![43 4](https://user-images.githubusercontent.com/93834732/148001458-6c4f1b41-af73-4ffa-81c9-10843ee784a7.GIF)
+
+
 	7–6 El puente Wheatstone
 	
+*47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 m Ohms, a 120,060 Ohms, y los medidores a compresión disminuyen su resistencia en 60 m Ohsm, a 119.940 Ohms, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?*
+
+![47](https://user-images.githubusercontent.com/93834732/148002363-0b508302-15e5-4c9c-95f9-b4e739354c95.GIF)
+
+Resolucion 
+
+![47 1](https://user-images.githubusercontent.com/93834732/148003007-32608dd9-166c-47b8-90e3-05018284d37c.GIF)
+
 	7–7 Localización de fallas 
 
+*49. ¿Es correcta la lectura del voltímetro de la figura 7-84?*
+
+![49](https://user-images.githubusercontent.com/93834732/148003083-684565df-8858-4578-a156-585784283455.GIF)
+
+La medicion es correcta en este caso.
+
+*51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.*
+
+![51](https://user-images.githubusercontent.com/93834732/148003527-6e474f02-a6a6-4783-a29a-963748ddbebc.GIF)
+
+	Como se puede observar en la figura, el medidor numero 2 esta midiendo 0 V
+	lo cual es incorrecto ya que podemos observar que el voltaje si circula por ahi,
+	en este caso podemos decir que hay una abertura, esto debido a que si fuera un cortocircuito
+	el primer medidor de voltaje no deberia medir nada. 
+
+*53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.*
+
+![53](https://user-images.githubusercontent.com/93834732/148004066-1674eb31-a22a-4a48-bcbd-ffc49f476523.GIF)
+
+	En este caso el circuito presenta problemas en las medisiones tanto del medidor 1 como del 2,
+	la causa segun el metodo APM es la abertura de alguna de las resistencias, aumentando asi la medida del medidor, 
+	cuando esta deberia ser mas baja.
 
 
 #### **CAPÍTULO 8 :**
@@ -651,13 +750,72 @@ Vs = Is * Rs = 720 (V)
 	
 	
 	8–6 Teorema de Norton 
-	
+
+*23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL*
+
+![23](https://user-images.githubusercontent.com/93834732/148007219-0b82b214-8058-4a16-ba5c-a2e104c643ff.GIF)
+
+a)
+
+![23 1](https://user-images.githubusercontent.com/93834732/148008173-d1e437eb-2b6b-4d0a-a45c-1a1ffc3ccad6.GIF)
+
+b) 
+
+![29 2](https://user-images.githubusercontent.com/93834732/148008365-7b6881fd-aeea-4573-9c8b-5f95eb9ca407.GIF)
+
+c) 
+
+![23 3](https://user-images.githubusercontent.com/93834732/148008491-9796998d-8647-4ee1-a0a0-0de860e7c7cb.GIF)
+
+d) 
+
+![23 4](https://user-images.githubusercontent.com/93834732/148008732-a35c6891-cbe4-4b79-b06b-526bc2e94520.GIF)
+
+*25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.*
+
+![25](https://user-images.githubusercontent.com/93834732/148010375-fd7a7e00-b145-44dc-b815-d285a6993ce1.GIF)
+
+Resolucion
+
+![25 1](https://user-images.githubusercontent.com/93834732/148010310-ef2ca31f-8ab4-41db-adee-12dd6c1a3695.GIF)
+
+![25 2](https://user-images.githubusercontent.com/93834732/148010339-0e692fe7-5dd0-4e51-8c54-03e9b7b8a7ea.GIF)
+
+*27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL*
+
+![27](https://user-images.githubusercontent.com/93834732/148010488-893a877d-a724-4741-9f7e-4f682a50d87c.GIF)
+
+![27 1](https://user-images.githubusercontent.com/93834732/148011257-83fcc234-3252-42bc-9b66-2d7d8a926ae3.GIF)
+
+*29. Aplique el teorema de Norton al circuito de la figura 8-84.*
+
+![29](https://user-images.githubusercontent.com/93834732/148011289-539ead24-9a24-4aed-b17d-e20ce3d9a48b.GIF)
+
+![29 3](https://user-images.githubusercontent.com/93834732/148011396-1958a027-02da-478d-a685-914130135757.GIF)
+
 	
 	8–7 Teorema de transferencia de potencia máxima
 	
 	
 	8–8 Conversiones delta a  Y (Δ a Y) y Y a delta (Y a Δ)
+	
+8–8 Conversiones delta a  Y (Δ a Y) y Y a delta (Y a Δ)
+	
+*35. En la figura 8-89, convierta cada red Y en una red delta.*
 
+![35](https://user-images.githubusercontent.com/93834732/148011437-ab18b971-10c3-4052-95e2-6478fae8c7b5.GIF)
+
+a)
+
+![35 1](https://user-images.githubusercontent.com/93834732/148011864-ff01af5f-bd2d-4945-a8ab-96392db45e81.GIF)
+
+![35 2](https://user-images.githubusercontent.com/93834732/148011884-7cdfa7eb-b9b2-407f-8072-0a80e4fe2658.GIF)
+
+b)
+
+![35 3](https://user-images.githubusercontent.com/93834732/148012215-f978ef28-28d3-4d6a-b32e-d05e745688bb.GIF)
+
+![35 4](https://user-images.githubusercontent.com/93834732/148012236-365dcf14-c456-48e4-9580-5a7cc0ca4d1d.GIF)
 
 ## 4. VIDEO
 			
