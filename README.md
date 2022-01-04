@@ -492,6 +492,30 @@ Vs = Is * Rs = 720 (V)
 
 ![image](https://user-images.githubusercontent.com/93396250/147422581-cf9d9228-4c99-46c2-84be-a70ed444b77e.png)
 
+	Resolviendo por el método de superposición 
+	Reemplazando la fuente de voltaje por su resistencia interna
+
+![9 1](https://user-images.githubusercontent.com/93396250/148011822-883fdfc4-0c4e-4ba4-b30e-64cfa9d904dd.JPG)
+
+	Por la regla de divisor de corriente
+
+![image](https://user-images.githubusercontent.com/93396250/148011874-3e532586-8b81-48f6-b1ce-b88dd8719b23.png)
+
+	Reemplazando la fuente de corriente por su resistencia interna
+	
+![9 2](https://user-images.githubusercontent.com/93396250/148011853-c636dca8-aa92-4800-9773-2fd2e048117a.JPG)
+
+
+	Usando en método de análisis de mallas
+
+![image](https://user-images.githubusercontent.com/93396250/148011885-b3f17322-cef8-4157-8f30-d3d14a823867.png)
+
+
+	La corriente que pasa a través de R3, la cual fue hallada por teorema de superposición, es igual a 
+
+![image](https://user-images.githubusercontent.com/93396250/148011885-b3f17322-cef8-4157-8f30-d3d14a823867.png)
+
+
 
 **11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?**
 
@@ -504,19 +528,82 @@ Vs = Is * Rs = 720 (V)
 
 ![image](https://user-images.githubusercontent.com/93396250/147542831-d6d13be2-05e1-4a63-9149-254995a28cbd.png)
 
+	Aplicando el análisis de nodos en el punto A tenemos
+
+![image](https://user-images.githubusercontent.com/93396250/148012006-7daa01b3-283c-4afe-a841-dfca6b04e9c3.png)
+
+	Calculamos nuestro Vb 
+
+![image](https://user-images.githubusercontent.com/93396250/148012021-4aaccafc-1483-4700-bf77-8d200ee75ebb.png)
+
+
+	Por tanto, el voltaje de Va a Vb es 
+	
+![image](https://user-images.githubusercontent.com/93396250/148012035-b12e25b3-f953-4288-8257-42c12752a48d.png)
 
 **15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
 
 
 ![image](https://user-images.githubusercontent.com/93396250/147542907-f0d6fe1b-3aa5-455b-b4d4-767b2cf621dc.png)
 
+	Dado que los terminales A están conectados (A hasta A) y los terminales de B están conectados (B hasta B), entonces el circuito es:
+
+![15](https://user-images.githubusercontent.com/93396250/148012221-2bfa62f5-a3b1-4bdd-bef6-8bb9f8dcb3f8.jpg)
 
 
+	I1 será la corriente provista por Vs1=32V y I2 será la corriente provista por Vs2=15V. Por tanto, aplicando leyes de Kirchoff en el nodo A tenemos
+
+![image](https://user-images.githubusercontent.com/93396250/148012114-98396a4f-4a6b-41f1-9f53-03b83e56ccf9.png)
+
+	Aplicando leyes de Kirchoff en el nodo B tenemos
+	
+![image](https://user-images.githubusercontent.com/93396250/148012123-7a50a276-a9b1-4961-b5a1-b424a5772589.png)
+
+
+	Aplicando leyes de Kirchoff en el nodo C tenemos
+	
+![image](https://user-images.githubusercontent.com/93396250/148012130-1b8868d1-f839-4d45-bf6d-5a50e197f955.png)
+	
+	Aplicando leyes de Kirchoff en el nodo D tenemos
+
+![image](https://user-images.githubusercontent.com/93396250/148012138-77582458-eb67-4815-a977-d4ccb88d8bc7.png)
+
+	Respuesta: 
+	Corriente provista por Vs1 es
+
+![image](https://user-images.githubusercontent.com/93396250/148012157-70c7bd73-16e8-4fd2-b08a-ad09863334c7.png)
+
+	Corriente provista por Vs2 es
+	
+![image](https://user-images.githubusercontent.com/93396250/148012165-5035704d-545d-4387-bfc2-98fd7c768aa5.png)
+
+	
+	
+	
+	
+	
+	
 	8–5 Teorema de Thevenin
 	
 **17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.**
 
 ![image](https://user-images.githubusercontent.com/93396250/147422645-949c3d0c-b053-42a0-902d-522d23832393.png)
+
+	Para encontrar la corriente a través de la carga RL,
+	hacemos KVL en la primera malla y luego KVL en la segunda malla, 
+	para luego encontrar el Voltaje de Thevenin
+
+
+	Para encontrar la resistencia de Thevenin
+	
+	El circuito de Thevenin sería el siguiente:
+	
+	
+	
+	
+	
+	
+	
 
 **19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.** 
 
