@@ -211,23 +211,73 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 		   
    (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
 		   
-![Screenshot 2021-12-20 160210](https://user-images.githubusercontent.com/93826527/146832327-d4189161-0912-4934-9775-a1989cd59b1c.png)		  
+![Screenshot 2021-12-20 160210](https://user-images.githubusercontent.com/93826527/146832327-d4189161-0912-4934-9775-a1989cd59b1c.png)		
 
+**3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.**
 
+![Screenshot 2022-01-03 165628](https://user-images.githubusercontent.com/93826527/147984790-1a4a5896-544c-4753-9c2b-87acbd56e773.png)
 
+(a) Las resistencias R2 y R3 están en paralelo, y las resistencias R1, R23 y R4 están en serie.
+(b) Las resistencias R2, R3 y R4 están en paralelo, y, la resistencia R234 está en serie con R1.
+(c) Las resistencias R2 y R3 están en paralelo, R4 y R5 también están en paralelo. Las resistencias R23 y R45 están en serie y la R1 está en paralelo con R2345.
 
+**5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.**
 
+![Screenshot 2022-01-03 171116](https://user-images.githubusercontent.com/93826527/147985993-49d25149-2357-4caa-ab17-4bf55b4bbb8a.png)
 
+ESQUEMÁTICO REALIZADO EN SIMULADOR MULTISIM
 
+![Untitled Circuit-schematic](https://user-images.githubusercontent.com/93826527/147986955-7477ca80-e8ed-4a67-bfba-04e20377fbf3.png)
 
+**7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.**
 
-
-
-
-
-
+![Screenshot 2022-01-03 173723](https://user-images.githubusercontent.com/93826527/147987909-cbeaa707-5ea3-4279-9297-b0e00bea88bb.png)
 
 	7–2 Análisis de circuitos resistivos en serie-paralelo  
+	
+**9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.**
+
+![Screenshot 2022-01-03 165628](https://user-images.githubusercontent.com/93826527/147984790-1a4a5896-544c-4753-9c2b-87acbd56e773.png)
+
+(a) R23 = 1/(1/R2)+(1/R3) =  50 ohm
+
+R1+R23+R4 = 50 + 56 + 27 = 133 ohm
+
+Rt = 133 ohm
+
+**11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.**
+
+Rt = 133 ohm 
+
+It = Vs / Rt = 11.28 mA
+
+La corriente que pasa por la resistencia R1 y R4 es It, ya que la corriente es la misma para resistencias conectadas en serie.
+
+En R2 y R3 existe una división de corriente y como son resistencias de igual valor, tienen la misma corriente.
+
+I(R2) = I(R3) = It * (Rt/Rx) = 15 mA 
+
+**15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.**
+
+![Screenshot 2022-01-03 200841](https://user-images.githubusercontent.com/93826527/147996590-b56b2a62-e541-4f07-b2f7-828e0d6bd3d0.png)
+
+**17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?**
+
+![Screenshot 2022-01-03 201219](https://user-images.githubusercontent.com/93826527/147996802-d9109c6e-7e2a-4523-ab44-a0cd29648832.png)
+
+Se toma en cuenta que el voltaje es el mismo en conexiones en paralelo, por loc ual entre R1, R2 y R3 se reparte el mismo voltaje de la fuente, posterior a eso se deberia sacar la resistencia equivalente y sabiendo el Vs, aplicando fórmula de divisor de voltaje se puede encontrar el voltaje en R2, sin usar un equipo de medición.
+
+**19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.**
+
+![Screenshot 2022-01-03 201219](https://user-images.githubusercontent.com/93826527/147996802-d9109c6e-7e2a-4523-ab44-a0cd29648832.png)
+
+R123 = R1 + R2 + R3 = 716 kΩ
+
+R56 = R5 + R6 = 100 GΩ
+
+Rt = 1/ ((1/R123)+(1/R56)+(1/R4)) = 417.25 kΩ
+
+
 
 	7–3 Divisores de voltaje con cargas resistivas 
 
@@ -277,6 +327,33 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 	
 	7–4 Efecto de carga de un voltímetro 
 	
+**35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?**
+
+La respuesta es a) ya que en 1 (V) al ser la cantidad más baja de voltaje en el circuito, es casi seguro que la resistencia interna del voltímetro, será mas grande que la resistencia del circuito y esto nos dará el valor real de carga en el circuito.
+
+**37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).**
+
+**(a) ¿Qué intervalo se deberá utilizar?**
+
+Se debe usar el intervalo de 0.5 (V), ya que su resistencia interna será de 10 (kohm), siendo muy superior a los 27 (ohm) de la R4 a medir.
+
+**(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?**
+
+R23 = 50 (ohm)
+
+R123 = 106 (ohm)
+
+V4 = (R4/(R4+R123)) * Vs = 304.5 (mV)
+
+**R4 en paralelo con el voltímetro**
+
+R4RM = (R4RM)/(R4+RM) = 26.93 (ohm)
+
+V4 = (R4RM)/(R123+R4RM) = 202.5 (mV)
+
+
+
+
 	7-5 Redes en escalera
 	
 	7–6 El puente Wheatstone
@@ -288,6 +365,23 @@ Cada resistor incluido en la delta es igual a la suma de todos los posibles prod
 #### **CAPÍTULO 8 :**
 	8–3 Conversiones de fuente
 	
+**1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 (ohm). Conviértala en una fuente de corriente equivalente. **
+
+Is = Vs / Rs = 6 (A)
+
+![Screenshot 2022-01-03 205908](https://user-images.githubusercontent.com/93826527/147999684-23b6f10f-45cf-491f-9ead-2d1493e6a9c0.png)
+
+**3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?**	
+
+Rs = Vs / Is = 0.2 (ohm)
+
+**5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kohm. Conviértala en una fuente de voltaje equivalente. **
+
+Vs = Is * Rs = 720 (V) 
+
+![Screenshot 2022-01-03 211012](https://user-images.githubusercontent.com/93826527/148000374-b23f5f95-d050-4d8d-824e-055c14f53bd4.png)
+
+
 	
 	8–4 El teorema de superposición 
 	
