@@ -829,8 +829,12 @@ b)
 	
 ## 5.	CONCLUSIONES
         
+Se logró comprobar, mediante la resolución de ejercicios, la eficacia del teorema de Thevenin, implantando en el circuito una fuente de voltaje con su resistencia interna en serie y encontrando valores de resistencia, corriente y voltaje equivalentes.
 
 
+Aplicando el método de Norton para resolver circuitos en serie-paralelo, se reemplazo en el circuito una fuente de corriente con su resistencia interna en paralelo y encontrando valores de resistencia, corriente y voltaje equivalentes.
+
+A través de la resistencia de carga **RL** se probó el teorema de transferencia de potencia máxima, concluyendo así que la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual o casi igual a la resistencia interna de la fuente. 
 
 ## 6.	BIBLIOGRAFÍA
 
