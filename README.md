@@ -592,13 +592,23 @@ Vs = Is * Rs = 720 (V)
 	Para encontrar la corriente a través de la carga RL,
 	hacemos KVL en la primera malla y luego KVL en la segunda malla, 
 	para luego encontrar el Voltaje de Thevenin
+![image](https://user-images.githubusercontent.com/93396250/148012364-925de73f-2c98-4436-acef-fc3f694b6c0b.png)
+
+![image](https://user-images.githubusercontent.com/93396250/148012371-9e83d04a-f042-476b-9845-bc440076e4a2.png)
 
 
 	Para encontrar la resistencia de Thevenin
 	
+![image](https://user-images.githubusercontent.com/93396250/148012343-71785a39-83e8-43d9-ba81-832bda2e112d.png)
+
 	El circuito de Thevenin sería el siguiente:
 	
+![17](https://user-images.githubusercontent.com/93396250/148012329-e4a88d5c-01a8-4bd5-9907-9a4a04d77bb9.JPG)
 	
+	Por tanto, la corriente a través de la carga RL es 
+	
+![image](https://user-images.githubusercontent.com/93396250/148012328-82587f9e-b91d-4323-ac31-7e91ae2cf902.png)
+
 	
 	
 	
@@ -616,6 +626,27 @@ Vs = Is * Rs = 720 (V)
 
 ![image](https://user-images.githubusercontent.com/93396250/147422667-53b2c2ce-a93c-4931-b8c6-4770993ba263.png)
 
+	Aplicando el análisis de nodos a V1 tenemos
+
+![image](https://user-images.githubusercontent.com/93396250/148012450-53b9644e-4868-4d35-a02d-edc55be294fb.png)
+
+
+	Aplicando el análisis de nodos a V2 tenemos
+
+![image](https://user-images.githubusercontent.com/93396250/148012437-ecac314d-0247-4126-801c-8e486d1e750e.png)
+
+	
+	Resolviendo el sistema de ecuaciones de [1] y [2] tenemos
+
+![image](https://user-images.githubusercontent.com/93396250/148012430-c9e160f0-ac62-4b1d-90d9-66fa27bb1cc2.png)
+
+
+	Por tanto, la corriente a través del resistor es
+	
+![image](https://user-images.githubusercontent.com/93396250/148012422-2b09629d-56bf-4e49-abf1-a152286e9117.png)
+
+	
+	
 	
 	
 	8–6 Teorema de Norton 
